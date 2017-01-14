@@ -1,3 +1,4 @@
+NOTE THIS WILL ONLY WORK IF YOU HAVE PYTHON 2.7 OTHERWISE refer to S3.md
 ## Synopsis
 
 Script used to upload large files to s3 bucket
